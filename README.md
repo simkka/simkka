@@ -8,7 +8,7 @@
   - [Algorithms and data structures (C ) list](https://github.com/simkka/Algorithms-and-data-structures---list-type/blob/main/README.md)
   - [Sorting Algorithms - Merging](https://github.com/simkka/sorting-algorithm-merging)
   - [Sorting Algorithms - Exchange, by fixing the presence of movements](https://github.com/simkka/sorting-algorithm-1/blob/main/README.md)
-  - 
+  - [Development of an algorithm - matrix](https://github.com/simkka/-algorithm---matrix/blob/main/README.md)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
