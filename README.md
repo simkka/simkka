@@ -1,19 +1,12 @@
 <h2>👨‍💻 Python Projects:</h2>
 
+- <b>Python Projects</b>
   - [Stocks Contribution](https://github.com/simkka/python-contribution-project)
   - [Stocks Volatility Project](https://github.com/simkka/pyhton-volatility-project/blob/main/README.md) 
   - [Company's position data](https://github.com/simkka/python-company-position-data/blob/main/README.md) 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>C++ Projects</b>
+  - [Algorithms and data structures (C++) list](https://github.com/simkka/Algorithms-and-data-structures---list-type/blob/main/README.md)
+  - []()
 
 <h2> 🤳 Connect with me:</h2>
 
