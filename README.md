@@ -1,4 +1,4 @@
-<h2>👨‍💻 Python Projects:</h2>
+<h2>Projects:</h2>
 
 - <b>Python Projects</b>
   - [Stocks Contribution](https://github.com/simkka/python-contribution-project)
@@ -15,5 +15,5 @@
   - [Sorting Algorithms - Merging](https://github.com/simkka/sorting-algorithm-merging)
   - [Sorting Algorithms - Exchange, by fixing the presence of movements](https://github.com/simkka/sorting-algorithm-1/blob/main/README.md)
   - [Development of an algorithm - matrix](https://github.com/simkka/-algorithm---matrix/blob/main/README.md)
-<h2> 🤳 Connect with me:</h2>
+
 
