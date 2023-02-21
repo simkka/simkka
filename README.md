@@ -10,6 +10,8 @@
   - [Matrix operation](https://github.com/simkka/Matrix-operation/blob/main/README.md)
   - [Matrix sorting](https://github.com/simkka/matrix-sorting)
   - [Method of simple iterations and Newton's method](https://github.com/simkka/method-of-simple-iterations)
+  - [Seidel's method](https://github.com/simkka/Seidel-s-method)
+  - [half-division/ chord/ Newton method](https://github.com/simkka/half-division-chord-Newton)
   
 - <b>Algorithms and data structures</b>
   - [Algorithms and data structures (C ) list](https://github.com/simkka/Algorithms-and-data-structures---list-type/blob/main/README.md)
