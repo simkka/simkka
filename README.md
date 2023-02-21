@@ -1,8 +1,8 @@
 <h2>Projects:</h2>
 
 - <b>Python Projects</b>
-  - [Stocks Contribution](https://github.com/simkka/python-contribution-project)
   - [Stocks Volatility Project](https://github.com/simkka/pyhton-volatility-project/blob/main/README.md) 
+  - [Stocks Contribution](https://github.com/simkka/python-contribution-project)
   - [Company's position data](https://github.com/simkka/python-company-position-data/blob/main/README.md) 
  
 - <b>Programming Projects - C/C++</b>
