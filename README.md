@@ -16,4 +16,7 @@
   - [Sorting Algorithms - Exchange, by fixing the presence of movements](https://github.com/simkka/sorting-algorithm-1/blob/main/README.md)
   - [Development of an algorithm - matrix](https://github.com/simkka/-algorithm---matrix/blob/main/README.md)
 
-
+- <b>Jupyter notebook</b>
+  - [Numerical methods - nonlinear equations](https://github.com/simkka/Numerical-methods-nonlinear-equations)
+  - [Numerical methods - linear systems](https://github.com/simkka/Numerical-methods-linear-systems)
+  - [Numerical methods - іystems of nonlinear equations](https://github.com/simkka/Systems-of-nonlinear-equations)
