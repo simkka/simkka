@@ -9,6 +9,7 @@
   - [Words combination](https://github.com/simkka/Words-combination-)
   - [Matrix operation](https://github.com/simkka/Matrix-operation/blob/main/README.md)
   - [Matrix sorting](https://github.com/simkka/matrix-sorting)
+  - [Method of simple iterations and Newton's method](https://github.com/simkka/method-of-simple-iterations)
   
 - <b>Algorithms and data structures</b>
   - [Algorithms and data structures (C ) list](https://github.com/simkka/Algorithms-and-data-structures---list-type/blob/main/README.md)
