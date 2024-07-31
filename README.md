@@ -3,7 +3,7 @@
 - <b>Python Projects</b>
   - [Stocks Volatility Project](https://github.com/simkka/pyhton-volatility-project) 
   - [Stocks Contribution](https://github.com/simkka/python-contribution-project)
-  - [Company's position data](https://github.com/simkka/python-company-position-data) 
+  - [Position data](https://github.com/simkka/python-company-position-data) 
  
 - <b>Programming Projects - C/C++</b>
   - [Words combination](https://github.com/simkka/Words-combination-)
