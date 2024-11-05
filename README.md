@@ -1,6 +1,14 @@
+<h2>Research: </h2>
+
+- [<b>Deep Generative Approaches to Network Science for Social System Simulations</b>](https://github.com/simkka/rips-la-2024)
+
+- [<b>Mathematical Queuing Models and their application in everyday problems<b>](https://github.com/simkka/jra_2023/blob/main/README.md)
+
 <h2>Projects:</h2>
 
+
 - <b>Python Projects</b>
+
   - [Stocks Volatility Project](https://github.com/simkka/pyhton-volatility-project) 
   - [Stocks Contribution](https://github.com/simkka/python-contribution-project)
   - [Position data](https://github.com/simkka/python-company-position-data) 
